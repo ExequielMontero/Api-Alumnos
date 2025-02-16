@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zDXG/pcUZYPLdAYjOJFvOvo4MwUjoDd6bNhIfPz47J1yk6RENQHrtcooyzqogKur1elSICMZLMWbzkve+ghy6g==",
+  "dgSpecHash": "7BGTsRoY4Kr6Hpynn7Xu2d6hM4uod6XqlXM3DOQfSflTKbgHYZbaWdrpzc5Nk5mwihoD5Q2mGFGDVRIHM8xkAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api Web alumnos\\alumnos api\\alumnos api.csproj",
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\alumnos api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
