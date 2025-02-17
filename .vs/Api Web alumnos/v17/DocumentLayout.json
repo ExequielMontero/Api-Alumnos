@@ -7,19 +7,31 @@
       "RelativeMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|solutionrelative:alumnos api\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\api-alumnos\\alumnos api\\data\\connectiondbstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\data\\connectiondbstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|solutionrelative:alumnos api\\data\\connectiondbstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\api-alumnos\\alumnos api\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|solutionrelative:alumnos api\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\api-alumnos\\alumnos api\\models\\dtos\\alumnosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\api-alumnos\\alumnos api\\models\\dtos\\actualizardnirequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|solutionrelative:alumnos api\\models\\dtos\\actualizardnirequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\models\\dtos\\alumnosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|solutionrelative:alumnos api\\models\\dtos\\alumnosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\api-alumnos\\alumnos api\\models\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\api-alumnos\\alumnos api\\models\\dtos\\actualizarnombrerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|solutionrelative:alumnos api\\models\\dtos\\actualizarnombrerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|c:\\users\\pc\\source\\repos\\consoleapp1\\api-alumnos\\alumnos api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|solutionrelative:alumnos api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\models\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67FFFFD8-ABEC-48F9-BB0A-00622D40A95E}|alumnos api\\alumnos api.csproj|solutionrelative:alumnos api\\models\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,8 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActualizarDniRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Models\\Dtos\\ActualizarDniRequestDto.cs",
+              "RelativeDocumentMoniker": "alumnos api\\Models\\Dtos\\ActualizarDniRequestDto.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Models\\Dtos\\ActualizarDniRequestDto.cs",
+              "RelativeToolTip": "alumnos api\\Models\\Dtos\\ActualizarDniRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:04:35.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Program.cs",
+              "RelativeDocumentMoniker": "alumnos api\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Program.cs",
+              "RelativeToolTip": "alumnos api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:58:33.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActualizarNombreRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Models\\Dtos\\ActualizarNombreRequestDto.cs",
+              "RelativeDocumentMoniker": "alumnos api\\Models\\Dtos\\ActualizarNombreRequestDto.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Models\\Dtos\\ActualizarNombreRequestDto.cs",
+              "RelativeToolTip": "alumnos api\\Models\\Dtos\\ActualizarNombreRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:32:17.752Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -53,14 +104,14 @@
               "RelativeDocumentMoniker": "alumnos api\\Controllers\\AlumnoController.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Controllers\\AlumnoController.cs",
               "RelativeToolTip": "alumnos api\\Controllers\\AlumnoController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAnAAAA",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAuwJMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T03:41:07.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AlumnosDto.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Models\\Dtos\\AlumnosDto.cs",
               "RelativeDocumentMoniker": "alumnos api\\Models\\Dtos\\AlumnosDto.cs",
@@ -79,14 +130,14 @@
               "RelativeDocumentMoniker": "alumnos api\\Data\\ContextDb.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Data\\ContextDb.cs",
               "RelativeToolTip": "alumnos api\\Data\\ContextDb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAFAAAA",
+              "ViewState": "AQIAANIAAAAAAAAAAAAgwOoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T03:09:31.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Alumnos.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\ConsoleApp1\\Api-Alumnos\\alumnos api\\Models\\Alumnos.cs",
               "RelativeDocumentMoniker": "alumnos api\\Models\\Alumnos.cs",
